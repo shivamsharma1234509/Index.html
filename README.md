@@ -1,1 +1,150 @@
-# Index.html
+# index.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <header>
+            <h1 style="border:solid 2px; background-color:#7E3584"> ™ BYJU'S</h1>
+            <img src="https://i.ibb.co/R47gSyc/Screenshot-20230913-220312.jpg" width="350">
+        </header>
+        <main>
+            <h2 style="color:#8841FE">Why To Choose Us!!</h2>
+            <hr>
+            <ul>
+                <li style="color:#7E3584; text-align:left">
+                    <u>
+                        Comprehensive learning programs
+& classes for all students
+
+Become lifelong learners with India's best teachers,
+engaging video lessons and personalised
+learning journeys.
+                    </u>
+                </li>
+                <hr>
+               <li> <h2 style="color:#803588">Instant Doubt Solving</h2></li>
+               <hr>
+                <li><h2 style="color:#803588">Personal Tutor</h2></li>
+                <hr>
+                <li> <h2 style="color:#803588">Classes structured to learn- practice-revise
+
+</h2></li>
+<hr>
+<li> <h2 style="color:#803588">Have A Look on our Previous class 10th Topper.
+
+</h2></li>
+<hr>
+            </ul>
+            
+            <table style="border:solid purple 2px">
+                <tr>
+                    <th style="border:dashed 1px purple">Name:</th>
+                    
+                    
+                    <th style="border:dashed 1px purple">Class</th>
+                    <th style="border:dashed 1px purple">Marks Obtained</th>
+                    
+                    
+                    
+                </tr>
+                <tr>
+                    
+                    <td style="border:dashed 1px purple">Abhinab Jain</td>
+                      <td style="border:dashed 1px purple">10th</td>
+                        <td style="border:dashed 1px purple">99.8%</td>
+                        </tr>
+                        <tr>
+                        
+                      <td style="border:dashed 1px purple">Pranav Mishra</td>
+                    
+                      <td style="border:dashed 1px purple">10th </td>
+                        <td style="border:dashed 1px purple">97.6%</td>
+                </tr>
+                <tr>
+                        
+                      <td style="border:dashed 1px purple">Princy Roy</td>
+                    
+                      <td style="border:dashed 1px purple">10th </td>
+                        <td style="border:dashed 1px purple">93.8%</td>
+                </tr>
+            </table>
+            <hr>
+            <ul>
+                <li>
+                    <h1 style="color:#F19BF4">Schedule Your Class Now¦</h1>
+                    <hr>
+                </li>
+            </ul>
+            <form>
+                <label for="c1"><b style="color:purple">Choose Your Class:</b></label>
+    <select name="State" id="c1">
+    <option>Class - 1</option>
+    <option>Class - 2</option>
+    <option>Class - 3</option>
+    <option>Class - 4</option>
+    <option>Class - 5</option>
+    <option>Class - 6</option>
+    <option>Class - 7</option>
+    <option>Class - 8</option>
+    <option>Class - 9</option>
+    <option>Class - 10</option>
+    </select>
+    
+    <hr>
+        
+        <label for="i1"><u><b>Your name:</b></u></label>
+            <input id="i1" name="name" value="type your name" required>
+            <br>
+            
+            
+            <br>
+            <label for="i1"><u><b>Your Email:</b></u></label>
+            <input id="i1" name="Email" value="example@gmail.com" required>
+            <br>
+            
+            
+            <br>
+            <label for="i1"><u><b>Your Phone number:</b></u></label>
+            <input id="i1" name="contact number" value="Phone Number(required)" required>
+            
+            <br>
+            <hr>
+            
+            <br>
+            <input id="i1" name="name" value="Your Pin - code" required>
+            
+            
+            <br>
+            
+            
+            <br>
+            
+            <input id="i1" name="name" value="Your state" required>
+            
+            
+            <br>
+            
+            
+            <br>
+            <input id="i1" name="name" value="Your Village:" required>
+            
+            
+            <br>
+            
+            <br>
+            <input id="i1" name="name" value="naarby place" required>
+            
+            <br>
+            <hr>
+            
+            <br>
+            <button onclick="alert('congratulations!! Your Class is confirmed')">Submit</button>
+        <hr>
+            </form>
+        </main>
+           </ul>
+        </section>
+    </body>
+</html>
